@@ -1,5 +1,4 @@
-<p align="center">
-<a href="https://momina4321.github.io/myportfolio/" target="_blank" ><img src="https://i.pinimg.com/originals/67/a4/26/67a4263c966a9f700cd0e4097d1e78e0.jpg" width="1200px" height="300px" ></a></p>
+<a href="https://momina4321.github.io/myportfolio/" ><img src="https://i.pinimg.com/originals/67/a4/26/67a4263c966a9f700cd0e4097d1e78e0.jpg" width="1200px" height="300px" ></a>
 
 
 ## Hi there, I'm Momina 👩‍💻
@@ -19,7 +18,7 @@
 
 ## Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momina4321&layout=donut&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momina4321&layout=donut&theme=neon&bg_color=ffff&title_color=FF007F)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
