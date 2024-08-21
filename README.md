@@ -1,10 +1,13 @@
+<p align="center">
+<a href="https://momina4321.github.io/myportfolio/" target="_blank" ><img src="https://i.pinimg.com/originals/67/a4/26/67a4263c966a9f700cd0e4097d1e78e0.jpg" width="1200px" height="300px" ></a></p>
+
+
 ## Hi there, I'm Momina 👩‍💻
 
-
-- 🔭 I’m currently working on MERN Stack apps.
-- 🌱 I’m currently learning Next Js and Tailwind CSS.
-- 👯 I’m looking to collaborate on different Full Stack projects.
-- 🤔 I’m looking for help with Full Stack development.
+- 🌸 I’m currently working on MERN Stack apps.
+- 🎀 I’m currently learning Next Js and Tailwind CSS.
+- 🦩 I’m looking to collaborate on different Full Stack projects.
+- 🌷 I’m looking for help with Full Stack development.
 
 ## Technologies I work in:
 
@@ -12,9 +15,11 @@
 |-----:|---------------|-----:|---------------|-----:|---------------|-----:|---------------|-----:|---------------|-----:|---------------|
 
 | <a href="https://github.com/momina4321/Vegetable-store-website"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/> </a>| <a href="https://github.com/momina4321/crypto-cli" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> </a> | <a href="https://github.com/momina4321/ECG-Digitization-and-Classification" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-|-----:|-----:|-----:|       
+|-----:|-----:|-----:|    
 
+## Stats:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momina4321&layout=donut&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
